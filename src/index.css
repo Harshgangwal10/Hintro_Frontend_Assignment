@@ -1,0 +1,29 @@
+@import "tailwindcss";
+
+:root {
+  font-family: Arial, sans-serif;
+  line-height: 1.5;
+  color: #333;
+  background-color: #f0f0f0;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  min-width: 320px;
+  min-height: 100vh;
+}
+
+#root {
+  width: 100%;
+  min-height: 100vh;
+}
+.priority-select {
+  background-image: none;
+}
+
+.priority-select option {
+  background-color: #1e293b;
+  color: #e2e8f0;
+  padding: 8px;
+}
