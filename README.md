@@ -2,7 +2,7 @@
 
 A modern, interactive Task Board application built with React and Vite. Manage your tasks efficiently with drag-and-drop functionality, filtering, search, and activity tracking.
 
-# Live Demo :
+# Live Demo 
 [Live Demo](https://taskboard-virid.vercel.app/login)
 
 ## Features
